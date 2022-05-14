@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+main img {
+    height: 350px;
+    width: 350px;}
+header{
+   height:75px ;
+  background-color: rgb(95, 95, 133);
+   }
+   header h1{
+       text-align: center;}
+       footer{
+   height:75px ;
+  background-color: rgb(95, 95, 133);
+   }
+  footer a {
+       text-decoration: none;
+       border: 2px solid black;
+       margin-top: 20px;
+       margin-left: 200px;
+       padding: 5px;
+       }
